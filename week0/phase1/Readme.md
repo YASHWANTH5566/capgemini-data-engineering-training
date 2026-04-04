@@ -1,7 +1,7 @@
-##PySpark Basics – DataFrame Practice
+## PySpark Basics – DataFrame Practice
 This project demonstrates basic operations in PySpark DataFrames using simple customer data. It helps in understanding how to perform common data queries such as filtering rows, selecting columns, and counting records.
 
-#The goal of this practice is to become comfortable with the basic syntax of PySpark and understand how data can be processed step by step.
+# The goal of this practice is to become comfortable with the basic syntax of PySpark and understand how data can be processed step by step.
 
 Dataset Used
 Customers Data
